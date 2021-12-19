@@ -1,0 +1,252 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+.computer_img {
+  height: 300px;
+  widht: 300px;
+  position: absolute;
+  right: 150px;
+}
+
+.Cont {
+  color: #8E05C2;
+  font-family: 'Rock Salt', cursive;
+}
+
+.desktop_img {
+  position: absolute;
+  top: 500px;
+  left: 140px;
+  height: 290px;
+  width: 290px;
+}
+
+.downcloud {
+  top: 200px;
+  left: 475px;
+  position: absolute;
+}
+
+.first_part {
+  position: relative;
+
+}
+
+.footer-link1 {
+  position: absolute;
+  top: 115px;
+  left: 370px;
+  color: #009DAE;
+  font-family:  fantasy;
+}
+
+.footer-link2 {
+  position: absolute;
+  top: 175px;
+  left: 370px;
+  color: #009DAE;
+  font-family:  fantasy;
+}
+
+.footer-link3 {
+  position: absolute;
+  top: 140px;
+  right: 135px;
+  color: #009DAE;
+  font-family:  fantasy;
+}
+
+.footer-link4 {
+  position: absolute;
+  top: 220px;
+  right: 135px;
+  color: #009DAE;
+  font-family:  fantasy;
+}
+
+.h1 {
+  margin: 0px;
+}
+
+.headin {
+    font-family: 'Alfa Slab One', cursive;
+    color: #6E3CBC;
+}
+
+.identity {
+  color: #66BFBF;
+}
+
+.img1 {
+  position: absolute;
+  right: 850px;
+  top: 90px;
+  height: 100px;
+  width: 100px;
+}
+
+.img2 {
+  position: absolute;
+  top: 180px;
+  right: 700px;
+  height: 100px;
+  width: 100px;
+}
+
+.img3 {
+  position: absolute;
+  right: 750px;
+  top: 380px;
+  height: 100px;
+  width: 100px;
+
+}
+
+.img4 {
+  position: absolute;
+  right: 510px;
+  top: 150px;
+  height: 100px;
+  width: 100px;
+
+}
+
+.ima_loca {
+  height: 100px;
+  width: 100px;
+}
+
+.info1 {
+  position: absolute;
+  top: 75px;
+  left: 270px;
+  color: #8E05C2;
+  font-family: 'Rock Salt', cursive;
+}
+
+.info2 {
+  position: absolute;
+  top: 75px;
+  right: 150px;
+  color: #8E05C2;
+  font-family: 'Rock Salt', cursive;
+}
+
+.location {
+  font-family: 'Kaushan Script', cursive;
+  font-size: 24px;
+  color: #66BFBF;
+}
+
+.mail {
+  position: absolute;
+  top: 105px;
+  left: 150px;
+  height: 100px;
+  width: 100px;
+}
+
+.mountain {
+}
+
+.optio {
+  font-family: 'Roboto Mono', monospace;
+  color: #98BAE7;
+}
+
+.option {
+  font-family: 'Sacramento', cursive;
+  color: #98BAE7;
+}
+
+.Pass {
+  position: absolute;
+  right: 500px;
+  top: 480px;
+  font-size: 45px;
+  color: #66BFBF;
+}
+
+.Phone {
+  position: absolute;
+  top: 170px;
+  right: 425px;
+  height: 100px;
+  width: 100px;
+}
+
+.quote {
+  margin: 0px;
+  font-family: 'Kaushan Script', cursive;
+  font-size: 24px;
+  color: #66BFBF;
+}
+
+.second {
+  color: #009DAE;
+}
+
+.second_part {
+  position: relative;
+}
+
+.skills {
+  position: relative;
+  background-color: #C5F7FF;
+  font-family: 'Sacramento', cursive;
+  font-size: 35px
+}
+
+.skill-row {
+}
+
+.subtitle {
+   color: #73C6B6;
+}
+
+.third {
+  position: relative;
+  background-color: #CAB8FF;
+  margin: 0px;
+}
+
+
+.top_container {
+  background-color: #E4F9F5;
+  position: relative;
+  margin: 0px;
+  padding-top: 100px;
+  font-family: 'Sacramento', cursive;
+  font-size: 35px
+}
+
+.upcloud {
+  top: 40px;
+  left: 1000px;
+  position: absolute;
+}
+
+.want_shift {
+  position: relative;
+  right: 460px;
+}
+
+.wanna_shift {
+  position: relative;
+  left: 480px;
+}
+
+.who  {
+  position: relative;
+  margin-top: 0px;
+  left: 500px;
+  color: #77E4D4;
+  font-family: 'Amatic SC', cursive;
+}
+
+.word_loc {
+  color: #8E05C2;
+  font-family: 'Rock Salt', cursive;
+}
